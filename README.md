@@ -32,10 +32,16 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathicashettym&" alt="prathicashettym" /></p>
 
 ## REPOSITORY DETAILS
+#### GitHub README
+|Sl No.  | Title                                                                        | Description                                                                                         |
+|--------|------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+|      1 | [Prathica Shetty M](https://github.com/PrathicaShettyM/PrathicaShettyM)      | This is my GitHub Readme file                                                                       |
 
-|Sl No.  | Project Name                                                                 | Project Description                                                                                         |
-|--------|------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-|      1 | [PrathicaShettyM](https://github.com/PrathicaShettyM/PrathicaShettyM)        | This my GitHub Readme file                                                                                  |
-
-
-|      2 | Data Structures and Algorithms                                               | This repository contains codes of Data structures and Algorithms in Java                                    |
+#### Courses / Tutorials
+|Sl No.  | Title                                                                                                |
+|--------|------------------------------------------------------------------------------------------------------|
+|      1 | [Data Structures and Algorithms](https://github.com/PrathicaShettyM/Python-programming)              |                                
+|      2 | [Python Programming](https://github.com/PrathicaShettyM/Python-programming)                          |                      
+|      3 | [Git Tutorials](https://github.com/PrathicaShettyM/Git_Tutorials)                                    | 
+|      4 | [MySQL](https://github.com/PrathicaShettyM/MySQL)                                                    | 
+|      5 | [JavaScript](https://github.com/PrathicaShettyM/JavaScript)                                          | 
