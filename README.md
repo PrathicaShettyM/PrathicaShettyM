@@ -31,3 +31,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathicashettym&" alt="prathicashettym" /></p>
 
+## PROJECTS INDEX
+|sl no.  | Project Name                          | Project Description                                                                                         |
+|--------|---------------------------------------|-------------------------------------------------------------------------------------------------------------
+|      1 | Prathica Shetty M(Readme file)        | This my GitHub Readme file                                                                                  |
+|      2 | Data Structures and Algorithms        | This repository contains codes of Data structures and Algorithms in Java                                    |
