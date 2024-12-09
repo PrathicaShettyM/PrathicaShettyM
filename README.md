@@ -32,7 +32,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathicashettym&" alt="prathicashettym" /></p>
 
 ## LeetCode Badges
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={mprathicashetty1812}" alt="LeetCode Badges"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=mprathicashetty1812&theme=dark&border=border&animated=true" alt="LeetCode Badges"/>
 
 
 
