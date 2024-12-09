@@ -58,6 +58,9 @@
 |     6 | [Weather App JS](https://github.com/PrathicaShettyM/JS-WeatherApp)                         | This is a Weather app using `Open Weather API` using HTML, CSS and JavaScript              |
 |     7 | [E-commerce page JS](https://github.com/PrathicaShettyM/JS-EcommercePage)                  | This is an Ecommerce page using `FakeStore API` using HTML, CSS and JavaScript             |
 |     8 | [Tic Tac Toe](https://github.com/PrathicaShettyM/Tic-Tac-Toe)                              | This is a Tic-Tac-Toe Application built using `ReactJS`                                    |
-|     9 | [Pokedex](https://github.com/PrathicaShettyM/Pokedex-ReactJS)                              | This is a PokeDex Application using `ReactJS` and `PokeAPI`                                |                                                        
+|     9 | [Pokedex](https://github.com/PrathicaShettyM/Pokedex-ReactJS)                              | This is a PokeDex Application using `ReactJS` and `PokeAPI`                                |  
+
+
+
 
 
