@@ -61,15 +61,17 @@
 ## Personal Projects
 
 #### 1. JavaScript Projects
-|Sl No.  | Title                                                                         |  Description                                                                    |
-|--------|-------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-|      1 | [Calculator JS](https://github.com/PrathicaShettyM/JS-Calculator)             | This is a simple Calculator using HTML, CSS and JavaScript                      |
-|      2 | [Todo JS](https://github.com/PrathicaShettyM/JS-ToDoApp)                      | This is a simple Todo App using HTML, CSS and JavaScript                        |
-|      3 | [Blog Page JS](https://github.com/PrathicaShettyM/JS-BlogPage)                | This is a simple Simple Blog Page using HTML, CSS and JavaScript                |
-|      4 | [Digital Clock JS](https://github.com/PrathicaShettyM/JS-DigitalClock)        | This is a simple Digital Clock using HTML, CSS and JavaScript                   |
-|      5 | [Quiz App JS](https://github.com/PrathicaShettyM/JS-QuizApp)                  | This is a simple Quiz App using HTML, CSS and JavaScript                        |
-|      6 | [Weather App JS](https://github.com/PrathicaShettyM/JS-WeatherApp)            | This is a Weather app using `Open Weather API` using HTML, CSS and JavaScript   |
-|      7 | [E-commerce page JS](https://github.com/PrathicaShettyM/JS-EcommercePage)     | This is an Ecommerce page using `FakeStore API` using HTML, CSS and JavaScript  |
+|Sl No.  | Title                                                                         |  Description                                                                         |
+|--------|-------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+|      1 | [Calculator JS](https://github.com/PrathicaShettyM/JS-Calculator)             | This is a simple Calculator using HTML, CSS and JavaScript                           |
+|      2 | [Todo JS](https://github.com/PrathicaShettyM/JS-ToDoApp)                      | This is a simple Todo App using HTML, CSS and JavaScript                             |
+|      3 | [Blog Page JS](https://github.com/PrathicaShettyM/JS-BlogPage)                | This is a simple Simple Blog Page using HTML, CSS and JavaScript                     |
+|      4 | [Digital Clock JS](https://github.com/PrathicaShettyM/JS-DigitalClock)        | This is a simple Digital Clock using HTML, CSS and JavaScript                        |
+|      5 | [Quiz App JS](https://github.com/PrathicaShettyM/JS-QuizApp)                  | This is a simple Quiz App using HTML, CSS and JavaScript                             |
+|      6 | [Weather App JS](https://github.com/PrathicaShettyM/JS-WeatherApp)            | This is a Weather app using `Open Weather API` using HTML, CSS and JavaScript        |
+|      7 | [E-commerce page JS](https://github.com/PrathicaShettyM/JS-EcommercePage)     | This is an Ecommerce page using `FakeStore API` using HTML, CSS and JavaScript       |
+|      8 | [IoT Security QuizApp](https://github.com/PrathicaShettyM/IoTSecurity)        | This is an IoT Security Quiz app using JavaScript (part of EL project 3rd Sem RVCE)  |
+
 
 #### 2. ReactJS Projects
 |Sl No.  | Title                                                                         |  Description                                                                              |
@@ -80,6 +82,10 @@
 |      4 | [React Gallery](https://github.com/PrathicaShettyM/ReactGallery)*             | This is a Gallery Application using `ReactJS`                                             |  
 |      5 | [React Todo](https://github.com/PrathicaShettyM/React_ToDo)*                  | This is a of a Todo App using `ReactJS` and `Tailwind CSS`                                |  
 
+#### 3. DeepLearning Projects
+|Sl No.  | Title                                                                                                              |  Description                                                                 |
+|--------|--------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+|      1 | [SupplyChain Financial Fraud Detection](https://github.com/PrathicaShettyM/SupplyChain-Fraud-Detection-using-LSTM) | Identifies Financial fraud in SupplyChain LSTM model (part of EL project 4th sem RVCE|
 
 
 
