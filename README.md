@@ -47,21 +47,20 @@
 |      5 | [JavaScript](https://github.com/PrathicaShettyM/JavaScript)                                          | 
 
 #### Personal Projects
+
 1. Web-Based Projects
-|Sl No. | Title                                                                         |  Description                                                    |
-|-------|-------------------------------------------------------------------------------|-----------------------------------------------------------------|
-|     1 | [Calculator JS](https://github.com/PrathicaShettyM/JS-Calculator)             | This is a simple Calculator using HTML, CSS and JavaScript      |
-|     2 | [Todo JS](https://github.com/PrathicaShettyM/JS-ToDoApp)                      | This is a simple Todo App using HTML, CSS and JavaScript        |
-|     3 | [Blog Page JS](https://github.com/PrathicaShettyM/JS-BlogPage)                | This is a simple Simple Blog Page using HTML, CSS and JavaScript|
-|     4 | [Digital Clock JS](https://github.com/PrathicaShettyM/JS-DigitalClock)        | This is a simple Digital Clock using HTML, CSS and JavaScript   |
-
-
-
-|     5 | [Quiz App JS](https://github.com/PrathicaShettyM/JS-QuizApp)                               | This is a simple Quiz App using HTML, CSS and JavaScript                                   |
-|     6 | [Weather App JS](https://github.com/PrathicaShettyM/JS-WeatherApp)                         | This is a Weather app using `Open Weather API` using HTML, CSS and JavaScript              |
-|     7 | [E-commerce page JS](https://github.com/PrathicaShettyM/JS-EcommercePage)                  | This is an Ecommerce page using `FakeStore API` using HTML, CSS and JavaScript             |
-|     8 | [Tic Tac Toe](https://github.com/PrathicaShettyM/Tic-Tac-Toe)                              | This is a Tic-Tac-Toe Application built using `ReactJS`                                    |
-|     9 | [Pokedex](https://github.com/PrathicaShettyM/Pokedex-ReactJS)                              | This is a PokeDex Application using `ReactJS` and `PokeAPI`                                |  
+   
+|Sl No.  | Title                                                                         |  Description                                                                    |
+|--------|-------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+|      1 | [Calculator JS](https://github.com/PrathicaShettyM/JS-Calculator)             | This is a simple Calculator using HTML, CSS and JavaScript                      |
+|      2 | [Todo JS](https://github.com/PrathicaShettyM/JS-ToDoApp)                      | This is a simple Todo App using HTML, CSS and JavaScript                        |
+|      3 | [Blog Page JS](https://github.com/PrathicaShettyM/JS-BlogPage)                | This is a simple Simple Blog Page using HTML, CSS and JavaScript                |
+|      4 | [Digital Clock JS](https://github.com/PrathicaShettyM/JS-DigitalClock)        | This is a simple Digital Clock using HTML, CSS and JavaScript                   |
+|      5 | [Quiz App JS](https://github.com/PrathicaShettyM/JS-QuizApp)                  | This is a simple Quiz App using HTML, CSS and JavaScript                        |
+|      6 | [Weather App JS](https://github.com/PrathicaShettyM/JS-WeatherApp)            | This is a Weather app using `Open Weather API` using HTML, CSS and JavaScript   |
+|      7 | [E-commerce page JS](https://github.com/PrathicaShettyM/JS-EcommercePage)     | This is an Ecommerce page using `FakeStore API` using HTML, CSS and JavaScript  |
+|      8 | [Tic Tac Toe](https://github.com/PrathicaShettyM/Tic-Tac-Toe)                 | This is a Tic-Tac-Toe Application built using `ReactJS`                         |
+|      9 | [Pokedex](https://github.com/PrathicaShettyM/Pokedex-ReactJS)                 | This is a PokeDex Application using `ReactJS` and `PokeAPI`                     |  
 
 
 
