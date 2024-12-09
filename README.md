@@ -33,18 +33,30 @@
 
 ## REPOSITORY DETAILS
 ## GitHub README
-|Sl No.  | Title                                                                        | Description                                                                                         |
-|--------|------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-|      1 | [Prathica Shetty M](https://github.com/PrathicaShettyM/PrathicaShettyM)      | This is my GitHub Readme file                                                                       |
+|Sl No.  | Title                                                                        | Description                       |
+|--------|------------------------------------------------------------------------------|-----------------------------------|
+|      1 | [Prathica Shetty M](https://github.com/PrathicaShettyM/PrathicaShettyM)      | This is my GitHub Readme file     |
 
-## Courses / Tutorials
-|Sl No.  | Title                                                                                                |
-|--------|------------------------------------------------------------------------------------------------------|
-|      1 | [Data Structures and Algorithms](https://github.com/PrathicaShettyM/Python-programming)              |                                
-|      2 | [Python Programming](https://github.com/PrathicaShettyM/Python-programming)                          |                      
-|      3 | [Git Tutorials](https://github.com/PrathicaShettyM/Git_Tutorials)                                    | 
-|      4 | [MySQL](https://github.com/PrathicaShettyM/MySQL)                                                    | 
-|      5 | [JavaScript](https://github.com/PrathicaShettyM/JavaScript)                                          | 
+## Tutorials
+|Sl No.  | Title                                                                                                            |
+|--------|------------------------------------------------------------------------------------------------------------------|
+|      1 | [Data Structures and Algorithms using Java](https://github.com/PrathicaShettyM/Data-Structures-and-Algorithms)   | 
+|      2 | [Java OOPs](https://github.com/PrathicaShettyM/Java_OOPS)                                                        |
+|      3 | [Git Tutorials](https://github.com/PrathicaShettyM/Git_Tutorials)                                                |
+|      4 | [HTML CSS Tutorial](https://github.com/PrathicaShettyM/HTML-CSS-concepts)                                        | 
+|      5 | [TailwindCSS miniprojects - 1](https://github.com/PrathicaShettyM/TailwindCSS-MiniProjects-1)                    | 
+|      6 | [TailwindCSS miniprojects - 2](https://github.com/PrathicaShettyM/Tailwind-CSS-MiniProjects-2)                   | 
+|      7 | [Tailwind CSS Blog page](https://github.com/PrathicaShettyM/TailwindCSS-BlogPage)                                | 
+|      8 | [JavaScript](https://github.com/PrathicaShettyM/JavaScript)                                                      | 
+|      9 | [ReactJS - 1](https://github.com/PrathicaShettyM/ReactJS-fundamentals-1)                                         | 
+|     10 | [ReactJS - 2](https://github.com/PrathicaShettyM/ReactJS-fundamentals-2)                                         | 
+|     11 | [React Redux](https://github.com/PrathicaShettyM/React-Redux)                                                    | 
+|     12 | [ReactJS - 1 assignment](https://github.com/PrathicaShettyM/ReactJS-Module-1)                                    | 
+|     13 | [ReactJS - 2 assignment](https://github.com/PrathicaShettyM/ReactJS-Module-2)                                    | 
+|     14 | [MySQL](https://github.com/PrathicaShettyM/MySQL)                                                                | 
+|     15 | [Python Programming](https://github.com/PrathicaShettyM/Python-programming)                                      |  
+|     16 | [NPTEL R Programming](https://github.com/PrathicaShettyM/NPTEL_R_programming)   (Part of RVCE)                   |  
+
 
 ## Personal Projects
 
@@ -59,15 +71,18 @@
 |      6 | [Weather App JS](https://github.com/PrathicaShettyM/JS-WeatherApp)            | This is a Weather app using `Open Weather API` using HTML, CSS and JavaScript   |
 |      7 | [E-commerce page JS](https://github.com/PrathicaShettyM/JS-EcommercePage)     | This is an Ecommerce page using `FakeStore API` using HTML, CSS and JavaScript  |
 
-
-
-
 #### 2. ReactJS Projects
 |Sl No.  | Title                                                                         |  Description                                                                              |
 |--------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
 |      1 | [Tic Tac Toe](https://github.com/PrathicaShettyM/Tic-Tac-Toe)                 | This is a Tic-Tac-Toe Application built using `ReactJS`                                   |
 |      2 | [Pokedex](https://github.com/PrathicaShettyM/Pokedex-ReactJS)                 | This is a PokeDex Application using `ReactJS` and `PokeAPI`                               |  
-|      3 | [CodeAcad](https://github.com/PrathicaShettyM/CodeAcad)                       | This is the frontend of a Learning Management System using `ReactJS` and `Tailwind CSS`   |  
+|      3 | [CodeAcad](https://github.com/PrathicaShettyM/CodeAcad)*                      | This is the frontend of a Learning Management System using `ReactJS` and `Tailwind CSS`   |  
+|      4 | [React Gallery](https://github.com/PrathicaShettyM/ReactGallery)*             | This is a Gallery Application using `ReactJS`                                             |  
+|      5 | [React Todo](https://github.com/PrathicaShettyM/React_ToDo)*                  | This is a of a Todo App using `ReactJS` and `Tailwind CSS`                                |  
+
+
+
+
 
 
 
