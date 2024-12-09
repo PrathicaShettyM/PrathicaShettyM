@@ -32,12 +32,12 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathicashettym&" alt="prathicashettym" /></p>
 
 ## REPOSITORY DETAILS
-#### GitHub README
+## GitHub README
 |Sl No.  | Title                                                                        | Description                                                                                         |
 |--------|------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 |      1 | [Prathica Shetty M](https://github.com/PrathicaShettyM/PrathicaShettyM)      | This is my GitHub Readme file                                                                       |
 
-#### Courses / Tutorials
+## Courses / Tutorials
 |Sl No.  | Title                                                                                                |
 |--------|------------------------------------------------------------------------------------------------------|
 |      1 | [Data Structures and Algorithms](https://github.com/PrathicaShettyM/Python-programming)              |                                
@@ -46,10 +46,9 @@
 |      4 | [MySQL](https://github.com/PrathicaShettyM/MySQL)                                                    | 
 |      5 | [JavaScript](https://github.com/PrathicaShettyM/JavaScript)                                          | 
 
-#### Personal Projects
+## Personal Projects
 
-1. Web-Based Projects
-   
+#### 1. JavaScript Projects
 |Sl No.  | Title                                                                         |  Description                                                                    |
 |--------|-------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 |      1 | [Calculator JS](https://github.com/PrathicaShettyM/JS-Calculator)             | This is a simple Calculator using HTML, CSS and JavaScript                      |
@@ -59,8 +58,16 @@
 |      5 | [Quiz App JS](https://github.com/PrathicaShettyM/JS-QuizApp)                  | This is a simple Quiz App using HTML, CSS and JavaScript                        |
 |      6 | [Weather App JS](https://github.com/PrathicaShettyM/JS-WeatherApp)            | This is a Weather app using `Open Weather API` using HTML, CSS and JavaScript   |
 |      7 | [E-commerce page JS](https://github.com/PrathicaShettyM/JS-EcommercePage)     | This is an Ecommerce page using `FakeStore API` using HTML, CSS and JavaScript  |
-|      8 | [Tic Tac Toe](https://github.com/PrathicaShettyM/Tic-Tac-Toe)                 | This is a Tic-Tac-Toe Application built using `ReactJS`                         |
-|      9 | [Pokedex](https://github.com/PrathicaShettyM/Pokedex-ReactJS)                 | This is a PokeDex Application using `ReactJS` and `PokeAPI`                     |  
+
+
+
+
+#### 2. ReactJS Projects
+|Sl No.  | Title                                                                         |  Description                                                                              |
+|--------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+|      1 | [Tic Tac Toe](https://github.com/PrathicaShettyM/Tic-Tac-Toe)                 | This is a Tic-Tac-Toe Application built using `ReactJS`                                   |
+|      2 | [Pokedex](https://github.com/PrathicaShettyM/Pokedex-ReactJS)                 | This is a PokeDex Application using `ReactJS` and `PokeAPI`                               |  
+|      3 | [CodeAcad](https://github.com/PrathicaShettyM/CodeAcad)                       | This is the frontend of a Learning Management System using `ReactJS` and `Tailwind CSS`   |  
 
 
 
