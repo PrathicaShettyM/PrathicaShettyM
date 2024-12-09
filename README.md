@@ -31,6 +31,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathicashettym&" alt="prathicashettym" /></p>
 
+## LeetCode Badges
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={mprathicashetty1812}" alt="LeetCode Badges"/>
+
+
+
 ## REPOSITORY DETAILS
 ## GitHub README
 |Sl No.  | Title                                                                        | Description                       |
@@ -85,7 +90,7 @@
 #### 3. DeepLearning Projects
 |Sl No.  | Title                                                                                                                 |  Description                                                                 |
 |--------|-----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-|      1 | [SupplyChain Financial<br>Fraud Detection](https://github.com/PrathicaShettyM/SupplyChain-Fraud-Detection-using-LSTM) | Identifies Financial fraud in SupplyChain LSTM model (part of EL project 4th sem RVCE|
+|      1 | [SupplyChain Financial<br>Fraud Detection](https://github.com/PrathicaShettyM/SupplyChain-Fraud-Detection-using-LSTM) | Identifies Financial fraud in SupplyChain LSTM model (part of EL project 4th sem RVCE)|
 
 
 
