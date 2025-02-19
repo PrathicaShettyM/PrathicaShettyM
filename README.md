@@ -1,20 +1,42 @@
 <img align="center" src="https://camo.githubusercontent.com/2619e5a9ead82dd13149cb33aeae4dd13e9969607c61eac3ac78fa34d6f5a609/687474703a2f2f70726f70756c736976652e696e2f6173736574732f696d672f736572766963652d69636f6e2f7765622e676966">
-<h1 align="center">Hi 👋, I'm Prathica Shetty M</h1>
+<h1 align="center">Hi there, I'm Prathica Shetty M! 👋</h1>
 <h3 align="center">An aspiring Software Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathicashettym&label=Profile%20views&color=0e75b6&style=flat" alt="prathicashettym" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prathicashettym&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathicashettym" alt="prathicashettym" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@prathicashetty" target="blank"><img src="https://img.shields.io/twitter/follow/@prathicashetty?logo=twitter&style=for-the-badge" alt="@prathicashetty" /></a> </p>
+## 🚀 About Me
+- 🌱 I’m learning **DSA, Machine Leaning and Web Development**
+- 💬 Ask me about **Java and development **
+- 📫 Reach me at **prathicashetty@example.com**
 
-- 📫 How to reach me **prathicashettym@gmail.com**
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prathicashettym&show_icons=true&theme=dark" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathicashettym&theme=dark" width="48%" />
+</p>
 
-<h3 align="left">Connect with me:</h3>
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prathicashettym&theme=darkhub&column=4" />
+</p>
+
+## 🌐 Connect with Me
 <p align="left">
-<a href="https://twitter.com/@prathicashetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prathicashetty" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prathica shetty m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathica shetty m" height="30" width="40" /></a>
-<a href="https://instagram.com/prathica shetty m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prathica shetty m" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/prathicashetty-m" target="blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/PrathicaShetty" target="blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/prathicashetty.m" target="blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/prathicashettym" target="blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
