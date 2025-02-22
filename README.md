@@ -67,13 +67,8 @@
 
 </p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathicashettym&show_icons=true&locale=en" alt="prathicashettym" /></p>
-
-
 ## 🏆 LeetCode Badges
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=mprathicashetty1812&theme=dark&border=border&animated=true" alt="LeetCode Badges"/>
-
 
 ## 📂 REPOSITORY DETAILS
 ## GitHub README
