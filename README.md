@@ -53,6 +53,7 @@
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> </a> 
   <!-- Backend & Database --> 
   <a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> </a> 
+  <a href="https://flask.palletsprojects.com/en/stable/" target="_blank"> <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" /> </a> 
   <a href="https://expressjs.com" target="_blank"> <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> </a> 
   <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> </a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> </a> 
@@ -124,12 +125,20 @@
 #### 3. AI-based Projects
 |Sl No.  | Title                                                                                                                 |  Description                                                                 |
 |--------|-----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-|      1 | [SupplyChain Financial<br>Fraud Detection](https://github.com/PrathicaShettyM/SupplyChain-Fraud-Detection-using-LSTM) | Identifies Financial fraud in SupplyChain LSTM model (part of EL project 4th sem RVCE)|
-|      2 | [Concrete Strength Prediction using XGBoost](https://github.com/PrathicaShettyM/ConcreteStrengthPrediction)           | Predicts the strength of concrete using inputs of materials used in concrete (part of EL project 5th sem RVCE)|
+|      1 | [SupplyChain Financial<br>Fraud Detection](https://github.com/PrathicaShettyM/SupplyChain-Fraud-Detection-using-LSTM) | Identifies Financial fraud in SupplyChain LSTM model                         |
+|      2 | [Concrete Strength Prediction using XGBoost](https://github.com/PrathicaShettyM/ConcreteStrengthPrediction)           | Predicts the strength of concrete using inputs of materials used in concrete |
+|      3 | [Nanoparticle-based Water Filter life prediction](https://github.com/PrathicaShettyM/WaterQualityPrediction) | Predicts the life of a Nana-particle based Water filter in hours using paramters like turbidity, ph, flow-rate and personalised feedback using `Gemini 2.0 flash api` |
+|      4 | [MalVisor](https://github.com/PrathicaShettyM/WaterQualityPrediction) | Predicts the life of a Nana-particle based Water filter in hours using paramters like turbidity, ph, flow-rate and personalised feedback using `Gemini 2.0 flash api`|
 
 
-
-
+## Academic Projects
+|Sl No.  | Title                                                                                                                 |  Description                                                                 |
+|--------|-----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+|      1 | [SupplyChain Financial<br>Fraud Detection](https://github.com/PrathicaShettyM/SupplyChain-Fraud-Detection-using-LSTM) | Identifies Financial fraud in SupplyChain LSTM model (part of Algorithms EL project 4th sem RVCE)|
+|      2 | [Concrete Strength Prediction using XGBoost](https://github.com/PrathicaShettyM/ConcreteStrengthPrediction)           | Predicts the strength of concrete using inputs of materials used in concrete (part of AIML EL project 5th sem RVCE)|
+|      3 | [VotersChain2.0](https://github.com/PrathicaShettyM/VotersChain2.0) |  (for 5th sem DBMS-EL RVCE)|
+|      4 | [Nanoparticle-based Water Filter life prediction](https://github.com/PrathicaShettyM/WaterQualityPrediction) | Predicts the life of a Nana-particle based Water filter in hours using paramters like turbidity, ph, flow-rate and personalised feedback using `Gemini 2.0 flash api` (for 6th sem Interdisciplinary project) |
+|      5 | [MalVisor](https://github.com/PrathicaShettyM/WaterQualityPrediction) | Automates static analysis of malwares affecting Windows PE files using Machine Learning Algorithms (for 6th sem Malware Analysis EL)|
 
 
 
