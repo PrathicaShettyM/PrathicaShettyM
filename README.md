@@ -136,7 +136,7 @@
 |--------|-----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
 |      1 | [SupplyChain Financial<br>Fraud Detection](https://github.com/PrathicaShettyM/SupplyChain-Fraud-Detection-using-LSTM) | Identifies Financial fraud in SupplyChain LSTM model (part of Algorithms EL project 4th sem RVCE)|
 |      2 | [Concrete Strength Prediction using XGBoost](https://github.com/PrathicaShettyM/ConcreteStrengthPrediction)           | Predicts the strength of concrete using inputs of materials used in concrete (part of AIML EL project 5th sem RVCE)|
-|      3 | [VotersChain2.0](https://github.com/PrathicaShettyM/VotersChain2.0) |  (for 5th sem DBMS-EL RVCE)|
+|      3 | [VotersChain2.0](https://github.com/PrathicaShettyM/VotersChain2.0) | Blockchain based Decentralised Voting System using MERN (for 5th sem DBMS-EL RVCE)|
 |      4 | [Nanoparticle-based Water Filter life prediction](https://github.com/PrathicaShettyM/WaterQualityPrediction) | Predicts the life of a Nana-particle based Water filter in hours using paramters like turbidity, ph, flow-rate and personalised feedback using `Gemini 2.0 flash api` (for 6th sem Interdisciplinary project) |
 |      5 | [MalVisor](https://github.com/PrathicaShettyM/WaterQualityPrediction) | Automates static analysis of malwares affecting Windows PE files using Machine Learning Algorithms (for 6th sem Malware Analysis EL)|
 
